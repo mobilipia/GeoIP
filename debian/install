@@ -1,1 +1,2 @@
-lib/geoip usr/lib/nodejs
+lib usr/lib/nodejs/geoip
+index.js usr/lib/nodejs/geoip
