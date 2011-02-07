@@ -1,3 +1,12 @@
+nodejs-geoip (v0.3.3-0sg4) UNRELEASED; urgency=low
+
+  [ caseycrites ]
+  * Changed the debian/install to copy correctly
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 07 Feb 2011 23:04:37 +0000
+
 nodejs-geoip (v0.3.3-0sg0) unstable; urgency=low
 
   * Debianized
