@@ -1,0 +1,9 @@
+This package was debianised by Casey Crites <casey@simplegeo.com>
+
+The upstream repo is:
+    http://github.com/kuno/GeoIP
+    LGPL License (see /usr/share/common-licenses )
+
+The Debian packaging is
+    Copyright 2011, SimpleGeo, Inc.
+    MIT license
